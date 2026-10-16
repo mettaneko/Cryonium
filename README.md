@@ -3,20 +3,20 @@
 ---
 
 # Cryonium
-Манго для режима Winter Zombies Mode в Anime Vanguards.
+RU-Localize Fork Mango for Winter Zombies Mode в Anime Vanguards.
 
-## Что это?
-Здесь содержатся только обновленные файлы, авто-запуск для зимнего ивента.
+## What's there?
+here contains only updated files / auto-start for winter event.
 
-# Не вижу смысл обновлять его дальше
-Не вижу толку обновлять его, т.к. найдутся люди, которые будут срать за всякую херню, так что пользуйтесь оригиналом. Обновлять и потакать оригиналу не собираюсь.
+# End-Of-Life
+thanks for all, but i cant update it anymore, cuz event is ended and this mango just not needed.
 
-# Оригинальный автор
-Огромная благодарность данному автору, что решился сделать данный макрос. Этот репозиторий является просто небольшим расширением функций и автоматизации этого макро, а также ру-гайдом.
+# Original Author
+huge thanks for original mango creator. this repo just have little more features and automation for this mango w/ russian guide.
 - https://youtu.be/kxoBF3VH0mc?si=Ek0SEAG8sa6LpNKG
 - https://github.com/loxersoun2369189-wq/Winter-Normal-Macro
   
-### Термины
-> Манго - макрос
+### Terms
+> Mango - Macro
 
 ---
